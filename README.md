@@ -24,6 +24,9 @@ I'm a passionate Full-Stack Developer with a strong focus on building robust web
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=mediatr&logoColor=white)
 [![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services)
+![MQTTnet](https://img.shields.io/badge/MQTTnet-1.0.0-blue?style=flat-square&logo=mqtt&logoColor=white)
+
+
 
 
 ### DevOps & Tools

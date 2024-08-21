@@ -46,7 +46,7 @@ I'm a passionate Full-Stack Developer with a strong focus on building robust web
 ## 📫 Get in Touch
 - Email: marwen.saad@outlook.com
 
-### My ![GitHub Activity Logo](https://img.shields.io/badge/GitHub-Activity-blue?style=flat-square&logo=github&logoColor=white)
+### ![GitHub Activity Logo](https://img.shields.io/badge/GitHub-Activity-blue?style=flat-square&logo=github&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarwenSaad&show_icons=true&hide_title=true&count_private=true&theme=dark)
 

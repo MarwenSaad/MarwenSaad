@@ -26,9 +26,6 @@ I'm a passionate Full-Stack Developer with a strong focus on building robust web
 [![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services)
 
 
-
-
-
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -45,6 +42,14 @@ I'm a passionate Full-Stack Developer with a strong focus on building robust web
 
 ## 📫 Get in Touch
 - Email: marwen.saad@outlook.com
+
+### My ![GitHub Activity Logo](https://img.shields.io/badge/GitHub-Activity-blue?style=flat-square&logo=github&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarwenSaad&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+
+
+
 
 ## 💬 Let's Collaborate!
 

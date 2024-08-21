@@ -8,7 +8,7 @@ I'm a passionate Full-Stack Developer with a strong focus on building robust web
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,css,sass,html,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,css,scss,html,vscode" />
   </a>
 </p>
 

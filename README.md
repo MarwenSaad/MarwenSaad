@@ -36,15 +36,6 @@ I'm a passionate Full-Stack Developer with a strong focus on building robust web
 
 
 
-
-### DevOps & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,githubactions,git,docker,azure" />
-  </a>
-</p>
-
 ## 🚀 Projects
 
 ### [AION-TIME]([https://github.com/yourusername/project1](https://github.com/TunNetCom/TunNetCom-AionTime))
